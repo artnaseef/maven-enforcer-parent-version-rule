@@ -19,7 +19,7 @@
  *
  */
 
-package com.amlinv;
+package com.artnaseef;
 
 import org.apache.maven.enforcer.rule.api.EnforcerRule;
 import org.apache.maven.enforcer.rule.api.EnforcerRuleException;
