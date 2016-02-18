@@ -33,6 +33,7 @@
         Rule for the Maven Enforcer Plugin that verifies the parent version of a POM matches the version of the project
         itself.
     </description>
+    <url>http://www.github.com/artnaseef/maven-enforcer-parent-version-rule</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
