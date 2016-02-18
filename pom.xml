@@ -26,7 +26,7 @@
     <groupId>com.artnaseef</groupId>
     <artifactId>maven-enforcer-parent-version-rule</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <name>Maven Enforcer, Parent Version Rule Plugin</name>
     <description>
@@ -63,7 +63,7 @@
         <developerConnection>scm:git:git@github.com:artnaseef/maven-enforcer-parent-version-rule.git
         </developerConnection>
         <url>git@github.com:artnaseef/maven-enforcer-parent-version-rule.git</url>
-      <tag>maven-enforcer-parent-version-rule-1.0.0</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <dependencies>
