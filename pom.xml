@@ -35,6 +35,8 @@
     </description>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
         <api.version>1.4.1</api.version>
         <junit.version>4.12</junit.version>
         <mockito.version>1.10.19</mockito.version>
