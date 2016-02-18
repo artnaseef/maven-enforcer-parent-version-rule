@@ -26,7 +26,7 @@
     <groupId>com.artnaseef</groupId>
     <artifactId>maven-enforcer-parent-version-rule</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
 
     <name>Maven Enforcer, Parent Version Rule Plugin</name>
     <description>
